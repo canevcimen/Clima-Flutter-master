@@ -11,7 +11,7 @@ class Location{
       // permission = await Geolocator.requestPermission();  //uygulamanın konumunu kullanması için izin alman gereken kod bloğu
 
       Position position = await Geolocator.getCurrentPosition(
-          desiredAccuracy: LocationAccuracy.low);
+          desiredAccuracy: LocationAccuracy.low);  //anlık konumunu çağıran kod bloğu
       latitude = position.latitude;
       longitude = position.longitude;
     }
