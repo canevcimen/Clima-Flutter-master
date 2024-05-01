@@ -10,6 +10,8 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 
 designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
 - Learn about Futures and how to work with them.
